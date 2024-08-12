@@ -320,9 +320,9 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="475" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I'm a Student of </text>    
-    <text x="15" y="50"> Artificial Intelligence & Data Science  
-          </text>
+    <text x="15" y="27">I'm a Student of Artificial Intelligence & Data Science</text>    
+    <text x="15" y="50"> currently Working on  
+          AI Powered Resume Feedback Project.</text>
   </g>
 
 
@@ -379,7 +379,7 @@
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="469" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
-     Currently working on Resume Analysis Tool etc.
+     I have worked on Data Science,NLP,ML,DL,LLM etc.
           </text>
           
   </g>
