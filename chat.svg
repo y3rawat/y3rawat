@@ -320,7 +320,7 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="475" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I'm a Student of AI and DS</text>    
+    <text x="15" y="27">I'm a Student of AI and DS and </text>    
     <text x="15" y="50"> currently doing Internship at 
           Cybrom
           as a AI developer.</text>
