@@ -1,9 +1,4 @@
 
-
-
-
-
-
 [![](https://github.com/y3-rawat/y3-rawat/blob/main/chat.svg)](https://y3rwt.vercel.app/)
 ![](https://github.com/y3-rawat/y3-rawat/blob/main/snake.svg)
 
@@ -54,9 +49,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=y3-rawat&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
 </br></br>
  </a>
-<a href="https://github.com/y3-rawat"> 
- <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution sts" width="%" /></br></br>
-  </a> 
+
   
  [![Walid's github streak](https://github-readme-streak-stats.herokuapp.com/?user=y3-rawat&theme=algolia&card_width=1000)](https://github.com/y3-rawat) </br></br>
 [![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=y3-rawat&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/y3-rawat) </br>
@@ -64,23 +57,9 @@
 </div>
 
 
-
-<a href="https://youtube.com/shorts/HWNQxME4r5E?feature=share"> 
- 
-
-<!--  <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fy3-rawat%2Fhit-counter&count_bg=%6EB9F2&title_bg=%01102D&icon=workplace.svg&icon_color=%41C350&title=Profile+Views&edge_flat=true" width="">    
- <img align="center" src="https://img.shields.io/badge/%20%20Press%20to%20watch%20my%202023-%20Github%20unwrapped%20-41c350.svg?logo=github&logoColor=41c350&labelColor=01102d&color=6eb9f2&style=for-the-badge" width="">     -->
-</a><br/><br/>
+<br/><br/>
  <div align="center">
 </p >
 <br/>
-</details>
-
-<!--SNAKE-->
 
 
-<p align="center">
-<a href="https://github.com/y3-rawat">
-   <img alt="github-snake" src="https://raw.githubusercontent.com/y3-rawat/y3-rawat/output/github-snake-darkBlue.svg" title="🐍 Watch how the snake's eating my contributions" />
-</a>
-</p>
